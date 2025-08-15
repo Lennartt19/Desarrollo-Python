@@ -1,1 +1,2 @@
-Aprendiendo a hacer uso Git Pull
+Aprendiendo a hacer uso Git Pull.
+Vamos a modificar la información
